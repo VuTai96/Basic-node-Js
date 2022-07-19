@@ -44,3 +44,21 @@ body {
     margin: 10px;
     cursor: pointer;
 }
+
+.delete-form {
+    display: inline-block;
+}
+
+.update-user-container {
+    padding   : 15px;
+    text-align: center;
+}
+
+.update-user-container label {
+    display: block;
+}
+
+.update-user-container .btn-click {
+    margin: 10px;
+    cursor: pointer;
+}
