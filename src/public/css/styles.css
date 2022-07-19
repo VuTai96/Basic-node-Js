@@ -30,3 +30,17 @@ body {
     background-color: #04AA6D;
     color           : white;
 }
+
+.creat-user-container {
+    padding   : 15px;
+    text-align: center;
+}
+
+.creat-user-container label {
+    display: block;
+}
+
+.creat-user-container .btn-click {
+    margin: 10px;
+    cursor: pointer;
+}
